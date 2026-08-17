@@ -108,8 +108,9 @@ This repository contains the source code for my personal portfolio website, incl
 
 ## Connect
 
-- GitHub: [@olaiyadigitech](https://github.com/olaiyadigitech)
-- LinkedIn: [Ajayi Oluwafemi Olaiya](https://www.linkedin.com/)
+- GitHub: [@olaiyadigitech]
+-https://olaiyadigitech.github.io/portfolio/)
+- LinkedIn: [Ajayi Oluwafemi Olaiya](https://www.linkedin.com/in/9843bb24b)
 
 ## Author
 
