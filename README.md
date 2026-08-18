@@ -1,12 +1,12 @@
-# Ajayi Oluwafemi Olaiya — Network Engineer Portfolio
+# Ajayi Oluwafemi Olaiya
 
-## About
+Professional portfolio showcasing my experience, projects, technical skills, and development work across network engineering, NOC operations, infrastructure, and backend development.
 
-Welcome to my professional portfolio.
+## About Me
 
-I am a **Network Engineer / NOC Engineer** with experience supporting network infrastructure, fibre optic transmission systems, and Network Operations Center environments.
+I am a **Network Engineer / NOC Engineer** with professional experience supporting network infrastructure, fibre optic transmission systems across Core, Metro and Aggregation in Network Operations Center environments.
 
-My technical interests include network engineering, infrastructure monitoring, automation, and backend development with Go.
+My technical interests include network engineering, infrastructure monitoring, automation, cloud technologies and backend development with Go.
 
 ## Professional Focus
 
@@ -109,8 +109,9 @@ This repository contains the source code for my personal portfolio website, incl
 ## Connect
 
 - GitHub: [@olaiyadigitech]
--https://olaiyadigitech.github.io/portfolio/)
-- LinkedIn: [Ajayi Oluwafemi Olaiya](https://www.linkedin.com/in/9843bb24b)
+  https://olaiyadigitech.github.io/portfolio/
+- LinkedIn: [Ajayi Oluwafemi Olaiya]
+  https://www.linkedin.com/in/9843bb24b
 
 ## Author
 
